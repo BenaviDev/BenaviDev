@@ -27,9 +27,9 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 <td width="50%" valign="top">
 
 ### 💻 Lenguajes de Programación  
-🔹<img src="https://camo.githubusercontent.com/f61d550a45f9dffcf953ceaf724ac3c2a14ac97948d728f1e6eb3267afb2bd84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>  
+<img src="https://camo.githubusercontent.com/f61d550a45f9dffcf953ceaf724ac3c2a14ac97948d728f1e6eb3267afb2bd84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>  
 🔹 **Java**  
-🔹 <img
+<img
 src= "https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"/>  
 
 ### ⚡ Herramientas  
@@ -97,17 +97,39 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 
 ## 🎥 Videos Destacados  
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>       
 
-<a href="https://www.youtube.com/watch?v=TU_VIDEO_1" target="_blank">
-    <img src="https://img.youtube.com/vi/TU_VIDEO_1/0.jpg" alt="Miniatura Video 1" width="350"/>
-</a>  
-
-<a href="https://www.youtube.com/watch?v=TU_VIDEO_2" target="_blank">
-    <img src="https://img.youtube.com/vi/TU_VIDEO_2/0.jpg" alt="Miniatura Video 2" width="350"/>
-</a>  
-
-</div>  
+<td width="50%">
+<h3 align="center">Curso Kotlin Multiplatform</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
 
 ---
 
