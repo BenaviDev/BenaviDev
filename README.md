@@ -5,12 +5,12 @@
   <div align="center" >
     <h3>REPOSITORIOS</h3>
     <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=java&logoColor=black" alt="Java"/>
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=java&logoColor=black" alt="Java"/>
+    <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+    <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </div>
 </div>
 
