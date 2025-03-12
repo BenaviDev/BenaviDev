@@ -27,7 +27,7 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 <td width="50%" valign="top">
 
 ### 💻 Lenguajes de Programación  
-🔹 **Python**  
+🔹 **Python** <img src="https://camo.githubusercontent.com/f61d550a45f9dffcf953ceaf724ac3c2a14ac97948d728f1e6eb3267afb2bd84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>  
 🔹 **Java**  
 🔹 **Bash**  
 
@@ -98,8 +98,8 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=2Jxq2rm2h1o" target="_blank">
-    <img src="https://www.youtube.com/watch?v=2Jxq2rm2h1o" alt="Miniatura Video 1" width="350"/>
+<a href="https://www.youtube.com/watch?v=TU_VIDEO_1" target="_blank">
+    <img src="https://img.youtube.com/vi/TU_VIDEO_1/0.jpg" alt="Miniatura Video 1" width="350"/>
 </a>  
 
 <a href="https://www.youtube.com/watch?v=TU_VIDEO_2" target="_blank">
