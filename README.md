@@ -108,7 +108,11 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>En este video les mostraré paso a paso cómo modificar una APK para cambiarle el nombre y el ícono. Esto es únicamente para fines educativos y en entornos de laboratorio controlados.</p>
+<p>En este video les mostraré paso a paso cómo modificar una APK para cambiarle el nombre y el ícono. 
+  
+  <br>
+  
+  Esto es únicamente para fines educativos y en entornos de laboratorio controlados.</p>
 </div>
                                                                                       
 </td>       
