@@ -32,7 +32,7 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 
 📺 Encuentra mi contenido en **[YouTube](https://www.youtube.com/@HackeandoPatos)**  
 🎵 Sígueme en **[TikTok](https://www.tiktok.com/@hackeadopatos)**  
-🔗 Comunidad de **[Discord](https://discord.gg/q7J7V2kr)**  
+🔗 Comunidad de **[Discord](https://discord.gg/q7J7V2kr)** 
 📧 Contáctame en **[Gmail](mailto:sbenavidezr29@gmail.com)**  
 
 ---
@@ -54,6 +54,48 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
   <td align="center"><b>CSS</b><br>🔹🔹🔹🔹🔹🔹░░░░ (60%)</td>
   <td align="center"><b>JavaScript</b><br>🔹🔹🔹🔹░░░░░░ (40%)</td>
   <td align="center"><b>Bootstrap</b><br>🔹🔹░░░░░░░░ (20%)</td>
+</tr>
+</table>
+
+---
+
+## 🎥 Videos Destacados  
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Crear una APK espía oculta</h3>
+<div align="center">
+<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank"><img src="https://i.imgur.com/5FfCN3U.jpeg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>En este video les mostraré paso a paso cómo modificar una APK para cambiarle el nombre y el ícono. 
+  
+  <br>
+  
+  Esto es únicamente para fines educativos y en entornos de laboratorio controlados.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Creación de un BackDoor indetectable para Windows</h3>
+<div align="center">
+<img src="https://i.imgur.com/KphOqak.png" width="400" alt="Creando un BackDoor Indetectable para windows"></a>
+<p>
+<a href="https://youtu.be/oMHeQb6U13Q" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>🔥 Cómo Crear un Backdoor Indetectable en Windows | Ingeniería Social y Ciberseguridad 🔥
+<br>
+En este video, te mostraré paso a paso cómo generar un payload indetectable para Windows y acceder a una máquina de forma remota.</p>
+</div>
+
+</td>
 </tr>
 </table>
 
