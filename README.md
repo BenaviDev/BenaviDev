@@ -32,7 +32,7 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 
 📺 Encuentra mi contenido en **[YouTube](https://www.youtube.com/@HackeandoPatos)**  
 🎵 Sígueme en **[TikTok](https://www.tiktok.com/@hackeadopatos)**  
-🔗 Comunidad Discord **[Discord](https://discord.gg/q7J7V2kr)**  
+🔗 Comunidad de **[Discord](https://discord.gg/q7J7V2kr)**  
 📧 Contáctame en **[Gmail](mailto:sbenavidezr29@gmail.com)**  
 
 ---
