@@ -1,6 +1,6 @@
 <div align="center">
 <h2>  Santiago Benavidez | Ethical Hacking & Development <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-  <h2> 👾 Open to Work 👾  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h2> 👾 Open to Work 👾</h2>
 </div>
 
 <div align="center" width="50">
