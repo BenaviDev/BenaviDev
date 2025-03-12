@@ -104,14 +104,11 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 <div align="center">
 <a href="https://youtu.be/2Jxq2rm2h1o" target="_blank"><img src="https://i.imgur.com/5FfCN3U.jpeg" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
 <a href="https://youtu.be/2Jxq2rm2h1o" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a crear un apk espia para <strong> Android </strong> - En este curso aprenderas sin censura como crear esta aplicacion para pruebas de pentesting android con msfvenom</p>
+<p>En este video les mostraré paso a paso cómo modificar una APK para cambiarle el nombre y el ícono. Esto es únicamente para fines educativos y en entornos de laboratorio controlados.</p>
 </div>
                                                                                       
 </td>       
