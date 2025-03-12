@@ -1,59 +1,68 @@
-
-<!--
-**BenaviDev/BenaviDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**<div align="center">
+<div align="center">
 <h2> 👾 Santiago Benavidez | Ethical Hacking & Development <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
-
 <img src="https://i.gifer.com/6o0.gif" alt="Welcome!" width="300"/>
-
 </div>
 
-<div align="center">
+---
 
-🚀 **Sobre mí** <br>
-Soy un apasionado de la **ciberseguridad, desarrollo de software y automatización**.  
-Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking ético**, me especializo en la creación de soluciones innovadoras para seguridad informática y desarrollo web.  
+## 🚀 Sobre mí  
+Soy un apasionado de la **ciberseguridad, el desarrollo de software y el hacking ético**.  
+Tengo experiencia en **pentesting, desarrollo web y programación**.  
+Me dedico a crear contenido educativo sobre seguridad informática y hacking en **YouTube y TikTok**.  
 
-📺 Encuentra mi contenido en TikTok **[aquí](https://www.tiktok.com/@hackeadopatos)**  
+📺 Encuentra mi contenido en **[YouTube](https://www.youtube.com/@HackeandoPatos)**  
 📧 Contáctame en **[Gmail](mailto:sbenavidezr29@gmail.com)**  
 
-</div>
+---
+
+## 🛠 Habilidades Técnicas  
+
+### 💻 Lenguajes de Programación  
+🔹 **Python**  
+🔹 **Java**  
+🔹 **Bash**  
+
+### ⚡ Herramientas  
+🛠 **Uso de herramientas como:**  
+- **Linux**  
+- **Metasploit**  
+- **Ingeniería social**  
+- **VirtualBox**
+- **Zphisher**
+
+### 🌐 Desarrollo Web  
+🎨 **Tecnologías utilizadas:**  
+- **CSS**  
+- **JavaScript**  
+- **Bootstrap**  
+- **HTML**  
 
 ---
 
-### 🛠 **Habilidades y Tecnologías**  
+## 📊 Nivel de Conocimientos  
 
-- 🔐 **Ciberseguridad:** Pentesting, Redes, OSINT  
-- 🖥️ **Lenguajes:** Python, Java, Bash  
-- ⚡ **Herramientas:** Kali Linux, Metasploit, Aircrack-ng, Nmap, Msfvenom, Linux Mint, Zphisher  
-- 🌐 **Desarrollo Web:** HTML, CSS, JavaScript, Bootstrap  
-- 🤖 **Automatización y Chatbots:** Creación de bots con Landbot  
+### 💻 Lenguajes de Programación  
+Python ▓▓▓▓▓▓▓▓▓▓░ 90%  
+Java ▓▓▓▓▓▓▓░░░░░ 60%  
+Bash ▓▓▓▓▓▓▓▓▓░░░ 75%  
+
+### ⚡ Herramientas  
+Linux Consola ▓▓▓▓▓▓▓▓░░ 85%  
+Metasploit ▓▓▓▓▓░░░░░ 50%  
+Ingeniería Social ▓▓▓▓▓▓▓▓░░ 80%  
+
+### 🌐 Desarrollo Web  
+CSS ▓▓▓▓▓▓▓░░░ 70%  
+JavaScript ▓▓▓▓▓░░░░░ 50%  
+Bootstrap ▓▓▓▓░░░░░░ 45%  
+HTML ▓▓▓▓▓▓▓░░░ 75%  
 
 ---
 
-### 📌 **Proyectos Destacados**  
-🔹 **[Proyecto 1](#)** – Descripción breve del proyecto  
-🔹 **[Proyecto 2](#)** – Descripción breve del proyecto  
-🔹 **[Proyecto 3](#)** – Descripción breve del proyecto  
-
----
-
-### 💼 **Experiencia Profesional**  
+## 📌 Experiencia Profesional  
 
 📌 **Soporte Técnico de Primer Nivel**  
 - Atención y resolución de requerimientos en **equipos de cómputo, redes, comunicaciones, audiovisual y laboratorios**  
@@ -71,15 +80,35 @@ Con experiencia en **Python, Java, Bash scripting** y herramientas de **hacking 
 
 ---
 
-### 🎮 **Únete a la Comunidad**  
-📢 **Discord:** Conéctate con otros entusiastas de la ciberseguridad  
-<a href="https://discord.gg/q7J7V2kr"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white" alt="DISCORD"></a>  
+## 🎥 Videos Destacados  
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=TU_VIDEO_1" target="_blank">
+    <img src="https://img.youtube.com/vi/TU_VIDEO_1/0.jpg" alt="Miniatura Video 1" width="350"/>
+</a>  
+
+<a href="https://www.youtube.com/watch?v=TU_VIDEO_2" target="_blank">
+    <img src="https://img.youtube.com/vi/TU_VIDEO_2/0.jpg" alt="Miniatura Video 2" width="350"/>
+</a>  
+
+</div>  
 
 ---
 
-### 🌎 **Sígueme en Redes**  
-<a href="https://www.linkedin.com/in/santiago-benavidez-789454237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-<a href="https://www.tiktok.com/@hackeadopatos" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>  
+## 🌎 Sígueme en Redes  
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/santiago-benavidez-789454237/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>  
+
+<a href="https://www.tiktok.com/@hackeadopatos" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+</a>  
+
+</div>  
 
 ---
 
