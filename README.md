@@ -102,7 +102,7 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 <td width="50%">
 <h3 align="center">Crear una APK espia oculta</h3>
 <div align="center">
-<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank"><img src="https://imgur.com/a/uEUYgos" width="400" alt="Curso intermedio Android"></a>
+<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank"><img src="https://i.imgur.com/5FfCN3U.jpeg" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
