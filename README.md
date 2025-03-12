@@ -20,7 +20,7 @@
 ---
 
 ## 📂 Repositorios  
-🔗 [Mis proyectos en GitHub](https://github.com/tuusuario)
+🔗 [Mis proyectos en GitHub](https://github.com/BenaviDev)
 
 ---
 
@@ -31,6 +31,8 @@ Tengo certificaciones en **Cómputo Básico, Programación Básica y Fundamentos
 Me dedico a crear contenido educativo sobre seguridad informática y hacking en **YouTube y TikTok**.  
 
 📺 Encuentra mi contenido en **[YouTube](https://www.youtube.com/@HackeandoPatos)**  
+🎵 Sígueme en **[TikTok](https://www.tiktok.com/@hackeadopatos)**  
+🔗 Comunidad Discord **[Discord](https://discord.gg/q7J7V2kr)**  
 📧 Contáctame en **[Gmail](mailto:sbenavidezr29@gmail.com)**  
 
 ---
@@ -39,75 +41,26 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 
 <table align="center">
 <tr>
-  <td align="center" width="33%"><b>Python</b><br>🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (70%)</td>
+  <td align="center" width="33%"><b>Python</b><br>🔹🔹🔹🔹🔹🔹░░░░ (60%)</td>
   <td align="center" width="33%"><b>Java</b><br>🔹🔹🔹🔹🔹░░░░░ (50%)</td>
-  <td align="center" width="33%"><b>Bash</b><br>🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (75%)</td>
+  <td align="center" width="33%"><b>Bash</b><br>🔹🔹🔹🔹░░░░░░ (40%)</td>
 </tr>
 <tr>
-  <td align="center"><b>Linux Consola</b><br>🔹🔹🔹🔹🔹🔹🔹🔹░░ (80%)</td>
-  <td align="center"><b>Metasploit</b><br>🔹🔹🔹🔹🔹░░░░░ (50%)</td>
-  <td align="center"><b>HTML</b><br>🔹🔹🔹🔹🔹🔹🔹░░░ (75%)</td>
+  <td align="center"><b>Linux Consola</b><br>🔹🔹🔹🔹🔹🔹🔹░░░ (75%)</td>
+  <td align="center"><b>Metasploit</b><br>🔹🔹🔹░░░░░░░░ (30%)</td>
+  <td align="center"><b>HTML</b><br>🔹🔹🔹🔹🔹🔹░░░░ (60%)</td>
 </tr>
 <tr>
-  <td align="center"><b>CSS</b><br>🔹🔹🔹🔹🔹🔹░░░░ (70%)</td>
-  <td align="center"><b>JavaScript</b><br>🔹🔹🔹🔹🔹░░░░░ (50%)</td>
-  <td align="center"><b>Bootstrap</b><br>🔹🔹🔹🔹░░░░░░ (45%)</td>
+  <td align="center"><b>CSS</b><br>🔹🔹🔹🔹🔹🔹░░░░ (60%)</td>
+  <td align="center"><b>JavaScript</b><br>🔹🔹🔹🔹░░░░░░ (40%)</td>
+  <td align="center"><b>Bootstrap</b><br>🔹🔹░░░░░░░░ (20%)</td>
 </tr>
 </table>
 
 ---
 
-## 📌 Experiencia Profesional  
-
-### 🖥 Soporte Técnico de Primer Nivel  
-- Atención y resolución de requerimientos en **equipos de cómputo, redes, comunicaciones, audiovisual y laboratorios**  
-- Actualización de inventarios y documentación de los casos recibidos  
-- Asegurar el cumplimiento de acuerdos de nivel de servicio (SLA) y gestión de casos recurrentes  
-- Inducción y capacitación a aprendices en procesos técnicos  
-- Manejo de plataformas **Salesforce** y **GLPI**  
-
-### 🎥 Creador de Contenido Educativo  
-- Desarrollo de videos y material didáctico sobre **hacking ético y programación en Python**  
-- Creación de guías prácticas y tutoriales sobre ciberseguridad y desarrollo  
-
-### 🏆 Logros Destacados  
-✅ Desarrollo de un **chatbot con Landbot** para optimizar la atención y gestión de usuarios  
-
----
-
-## 🎥 Videos Destacados  
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Crear una APK espía oculta</h3>
-<div align="center">
-<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank">
-<img src="https://i.imgur.com/5FfCN3U.jpeg" width="400" alt="Curso intermedio Android">
-</a>
-<p>
-<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>En este video les mostraré paso a paso cómo modificar una APK para cambiarle el nombre y el ícono.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Creación de un BackDoor indetectable para Windows</h3>
-<div align="center">
-<a href="https://youtu.be/oMHeQb6U13Q" target="_blank">
-<img src="https://i.imgur.com/KphOqak.png" width="400" alt="Creando un BackDoor Indetectable para Windows">
-</a>
-<p>
-<a href="https://youtu.be/oMHeQb6U13Q" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>🔥 Cómo Crear un Backdoor Indetectable en Windows | Ingeniería Social y Ciberseguridad 🔥</p>
-</div>
-</td>
-</tr>
-</table>
+## 🙌 Agradecimientos y Apoyo  
+Agradezco a todas las personas que me han apoyado en mi camino en la ciberseguridad y el desarrollo. Estoy construyendo mi **GitHub** poco a poco con nuevos proyectos y aprendizajes.  
+Si quieres colaborar o aprender juntos, no dudes en contactarme. ¡Gracias por tu apoyo! 💙🚀  
 
 ---
