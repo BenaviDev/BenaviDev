@@ -124,6 +124,6 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 </p>
 <p>🔥 Cómo Crear un Backdoor Indetectable en Windows | Ingeniería Social y Ciberseguridad 🔥
 <br>
-En este video, te mostraré paso a paso cómo generar un payload indetectable para Windows y acceder a una máquina de forma remota. Usaremos herramientas avanzadas y aplicaremos ingeniería social para la ejecución del código.</p>
+En este video, te mostraré paso a paso cómo generar un payload indetectable para Windows y acceder a una máquina de forma remota.</p>
 </div>
 
