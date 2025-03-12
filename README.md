@@ -117,36 +117,14 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Creacion de Un BackDoor indetectable para Windows</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<img src="https://i.imgur.com/KphOqak.png" width="400" alt="Creando un BackDoor Indetectable para windows"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<a href="https://youtu.be/oMHeQb6U13Q" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>
 
-  ---
-
-## 🌎 Sígueme en Redes  
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/santiago-benavidez-789454237/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>  
-
-<a href="https://www.tiktok.com/@hackeadopatos" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
-</a>  
-
-</div>  
-
----
-
-🔥 *Siempre explorando, aprendiendo y desarrollando nuevas soluciones en ciberseguridad y desarrollo de software.*  
