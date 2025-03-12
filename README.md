@@ -4,7 +4,7 @@
   
   <div align="center" >
     <h3>REPOSITORIOS</h3>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <a href="https://youtu.be/oMHeQb6U13Q" target="_blank" img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=java&logoColor=black" alt="Java"/>
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -40,7 +40,7 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
   <td align="center" width="33%"><b>Bash</b><br>(40%)</td>
 </tr>
 <tr>
-  <td align="center"><b>MAnejo de consola Linux</b><br>(80%)</td>
+  <td align="center"><b>Manejo de consola Linux</b><br>(80%)</td>
   <td align="center"><b>Metasploit</b><br>(35%)</td>
   <td align="center"><b>HTML</b><br>(75%)</td>
 </tr>
