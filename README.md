@@ -20,8 +20,11 @@
 ---
 
 ## 📂 Repositorios  
-🔗 [Mis proyectos en GitHub](https://github.com/BenaviDev)
-
+🔗 [Mi pagina principal](https://github.com/BenaviDev)
+🔗 [Ejercicios faciles con python](https://github.com/BenaviDev/Ejercicios-Practicos-PYTHON)
+🔗 [Scripts Utiles con python](https://github.com/BenaviDev/ScriptsPython)
+🔗 [Proyectos independientes](https://github.com/BenaviDev/Proyectos-Independientes)
+🔗 [OxPloit](https://github.com/BenaviDev/OxPloit)
 ---
 
 ## 🚀 Sobre mí  
