@@ -22,39 +22,50 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 
 ## 🛠 Habilidades Técnicas  
 
-### 💻 Lenguajes de Programación  
-- **Python**  
-- **Java**  
-- **Bash**  
-
-### ⚡ Herramientas  
-- **Linux**  
-- **Metasploit**  
-- **Ingeniería social**  
-- **VirtualBox**  
-- **Zphisher**  
-
-### 🌐 Desarrollo Web  
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
-- **Bootstrap**  
-
----
-
-## 📊 Nivel de Conocimientos  
-
-| Tecnología            | Nivel  |
-|----------------------|--------|
-| **Python**          | 🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (70%) |
-| **Java**            | 🔹🔹🔹🔹🔹░░░░░ (50%) |
-| **Bash**            | 🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (75%) |
-| **Linux Consola**   | 🔹🔹🔹🔹🔹🔹🔹🔹░░ (80%) |
-| **Metasploit**      | 🔹🔹🔹🔹🔹░░░░░ (50%) |
-| **HTML**            | 🔹🔹🔹🔹🔹🔹🔹░░░ (75%) |
-| **CSS**             | 🔹🔹🔹🔹🔹🔹░░░░ (70%) |
-| **JavaScript**      | 🔹🔹🔹🔹🔹░░░░░ (50%) |
-| **Bootstrap**       | 🔹🔹🔹🔹░░░░░░ (45%) |
+<table align="center">
+<tr>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <br>🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (70%)
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=java&logoColor=black" alt="Java"/>
+    <br>🔹🔹🔹🔹🔹░░░░░ (50%)
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    <br>🔹🔹🔹🔹🔹🔹🔹🔹░░ (80%)
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <b>Bash</b>
+    <br>🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (75%)
+  </td>
+  <td align="center">
+    <b>Metasploit</b>
+    <br>🔹🔹🔹🔹🔹░░░░░ (50%)
+  </td>
+  <td align="center">
+    <b>HTML</b>
+    <br>🔹🔹🔹🔹🔹🔹🔹░░░ (75%)
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <b>CSS</b>
+    <br>🔹🔹🔹🔹🔹🔹░░░░ (70%)
+  </td>
+  <td align="center">
+    <b>JavaScript</b>
+    <br>🔹🔹🔹🔹🔹░░░░░ (50%)
+  </td>
+  <td align="center">
+    <b>Bootstrap</b>
+    <br>🔹🔹🔹🔹░░░░░░ (45%)
+  </td>
+</tr>
+</table>
 
 ---
 
