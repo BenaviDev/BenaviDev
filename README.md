@@ -125,6 +125,8 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>🔥 Cómo Crear un Backdoor Indetectable en Windows | Ingeniería Social y Ciberseguridad 🔥
+<br>
+En este video, te mostraré paso a paso cómo generar un payload indetectable para Windows y acceder a una máquina de forma remota. Usaremos herramientas avanzadas y aplicaremos ingeniería social para la ejecución del código.</p>
 </div>
 
