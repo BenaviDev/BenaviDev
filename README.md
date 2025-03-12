@@ -1,5 +1,6 @@
 <div align="center">
-<h2> 👾 Santiago Benavidez | Ethical Hacking & Development <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2>  Santiago Benavidez | Ethical Hacking & Development <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h2> 👾 Open to Work 👾  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
@@ -11,6 +12,7 @@
 ## 🚀 Sobre mí  
 Soy un apasionado de la **ciberseguridad, el desarrollo de software y el hacking ético**.  
 Tengo experiencia en **pentesting, desarrollo web y programación**.  
+Tengo certificaciones en Cómputo Básico, Programación Básica y Fundamentos de Java.
 Me dedico a crear contenido educativo sobre seguridad informática y hacking en **YouTube y TikTok**.  
 
 📺 Encuentra mi contenido en **[YouTube](https://www.youtube.com/@HackeandoPatos)**  
