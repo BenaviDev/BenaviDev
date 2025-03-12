@@ -1,10 +1,10 @@
 <div align="center">
-<h2>  Santiago Benavidez | Ethical Hacking & Development <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-  <h2> 👾 Open to Work 👾</h2>
+  <h1>Santiago Benavidez | Ethical Hacking & Development <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+  <h3>👾 Open to Work 👾</h3>
 </div>
 
 <div align="center" width="50">
-<img src="https://i.gifer.com/6o0.gif" alt="Welcome!" width="300"/>
+  <img src="https://i.gifer.com/6o0.gif" alt="Welcome!" width="300"/>
 </div>
 
 ---
@@ -12,7 +12,7 @@
 ## 🚀 Sobre mí  
 Soy un apasionado de la **ciberseguridad, el desarrollo de software y el hacking ético**.  
 Tengo experiencia en **pentesting, desarrollo web y programación**.  
-Tengo certificaciones en Cómputo Básico, Programación Básica y Fundamentos de Java.
+Tengo certificaciones en **Cómputo Básico, Programación Básica y Fundamentos de Java**.  
 Me dedico a crear contenido educativo sobre seguridad informática y hacking en **YouTube y TikTok**.  
 
 📺 Encuentra mi contenido en **[YouTube](https://www.youtube.com/@HackeandoPatos)**  
@@ -20,22 +20,14 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 
 ---
 
-## 🛠 Habilidades Técnicas & 📊 Nivel de Conocimientos  
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🛠 Habilidades Técnicas  
 
 ### 💻 Lenguajes de Programación  
-<img src="https://camo.githubusercontent.com/f61d550a45f9dffcf953ceaf724ac3c2a14ac97948d728f1e6eb3267afb2bd84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"/>  
-🔹 **Java**  
-<img
-src= "https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"/>  
+- **Python**  
+- **Java**  
+- **Bash**  
 
 ### ⚡ Herramientas  
-🛠 **Uso de herramientas como:**  
 - **Linux**  
 - **Metasploit**  
 - **Ingeniería social**  
@@ -43,56 +35,43 @@ src= "https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c7081226
 - **Zphisher**  
 
 ### 🌐 Desarrollo Web  
-🎨 **Tecnologías utilizadas:**  
+- **HTML**  
 - **CSS**  
 - **JavaScript**  
 - **Bootstrap**  
-- **HTML**  
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📊 Nivel de Conocimientos  
+## 📊 Nivel de Conocimientos  
 
-**Lenguajes de Programación**  
-Python ▓▓▓▓▓▓▓▓▓░ 90%  
-Java ▓▓▓▓▓▓░░░░░ 60%  
-Bash ▓▓▓▓▓▓▓▓▓░░ 75%  
-
-**Herramientas**  
-Linux Consola ▓▓▓▓▓▓▓▓░░ 85%  
-Metasploit ▓▓▓▓▓░░░░░ 50%  
-Ingeniería Social ▓▓▓▓▓▓▓▓░░ 80%  
-Zphisher ▓▓▓▓▓▓░░░░ 60%  
-
-**Desarrollo Web**  
-CSS ▓▓▓▓▓▓▓░░░ 70%  
-JavaScript ▓▓▓▓▓░░░░░ 50%  
-Bootstrap ▓▓▓▓░░░░░░ 45%  
-HTML ▓▓▓▓▓▓▓░░░ 75%  
-
-</td>
-</tr>
-</table>
-
-</div>
+| Tecnología            | Nivel  |
+|----------------------|--------|
+| **Python**          | 🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (70%) |
+| **Java**            | 🔹🔹🔹🔹🔹░░░░░ (50%) |
+| **Bash**            | 🔹🔹🔹🔹🔹🔹🔹🔹🔹░ (75%) |
+| **Linux Consola**   | 🔹🔹🔹🔹🔹🔹🔹🔹░░ (80%) |
+| **Metasploit**      | 🔹🔹🔹🔹🔹░░░░░ (50%) |
+| **HTML**            | 🔹🔹🔹🔹🔹🔹🔹░░░ (75%) |
+| **CSS**             | 🔹🔹🔹🔹🔹🔹░░░░ (70%) |
+| **JavaScript**      | 🔹🔹🔹🔹🔹░░░░░ (50%) |
+| **Bootstrap**       | 🔹🔹🔹🔹░░░░░░ (45%) |
 
 ---
 
 ## 📌 Experiencia Profesional  
 
-📌 **Soporte Técnico de Primer Nivel**  
+### 🖥 Soporte Técnico de Primer Nivel  
 - Atención y resolución de requerimientos en **equipos de cómputo, redes, comunicaciones, audiovisual y laboratorios**  
 - Actualización de inventarios y documentación de los casos recibidos  
 - Asegurar el cumplimiento de acuerdos de nivel de servicio (SLA) y gestión de casos recurrentes  
 - Inducción y capacitación a aprendices en procesos técnicos  
 - Manejo de plataformas **Salesforce** y **GLPI**  
 
-📌 **Creador de Contenido Educativo**  
+### 🎥 Creador de Contenido Educativo  
 - Desarrollo de videos y material didáctico sobre **hacking ético y programación en Python**  
 - Creación de guías prácticas y tutoriales sobre ciberseguridad y desarrollo  
 
-📌 **Logros Destacados**  
+### 🏆 Logros Destacados  
 ✅ Desarrollo de un **chatbot con Landbot** para optimizar la atención y gestión de usuarios  
 
 ---
@@ -102,34 +81,34 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Crear una APK espia oculta</h3>
+<h3 align="center">Crear una APK espía oculta</h3>
 <div align="center">
-<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank"><img src="https://i.imgur.com/5FfCN3U.jpeg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://youtu.be/2Jxq2rm2h1o" target="_blank">
+<img src="https://i.imgur.com/5FfCN3U.jpeg" width="400" alt="Curso intermedio Android">
+</a>
 <p>
 <a href="https://youtu.be/2Jxq2rm2h1o" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>En este video les mostraré paso a paso cómo modificar una APK para cambiarle el nombre y el ícono. 
-  
-  <br>
-  
-  Esto es únicamente para fines educativos y en entornos de laboratorio controlados.</p>
+<p>En este video les mostraré paso a paso cómo modificar una APK para cambiarle el nombre y el ícono.</p>
 </div>
-                                                                                      
-</td>       
-
+</td>
 <td width="50%">
-<h3 align="center">Creacion de Un BackDoor indetectable para Windows</h3>
+<h3 align="center">Creación de un BackDoor indetectable para Windows</h3>
 <div align="center">
-<img src="https://i.imgur.com/KphOqak.png" width="400" alt="Creando un BackDoor Indetectable para windows"></a>
+<a href="https://youtu.be/oMHeQb6U13Q" target="_blank">
+<img src="https://i.imgur.com/KphOqak.png" width="400" alt="Creando un BackDoor Indetectable para Windows">
+</a>
 <p>
 <a href="https://youtu.be/oMHeQb6U13Q" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>🔥 Cómo Crear un Backdoor Indetectable en Windows | Ingeniería Social y Ciberseguridad 🔥
-<br>
-En este video, te mostraré paso a paso cómo generar un payload indetectable para Windows y acceder a una máquina de forma remota.</p>
+<p>🔥 Cómo Crear un Backdoor Indetectable en Windows | Ingeniería Social y Ciberseguridad 🔥</p>
 </div>
+</td>
+</tr>
+</table>
 
+---
