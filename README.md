@@ -18,7 +18,13 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 
 ---
 
-## 🛠 Habilidades Técnicas  
+## 🛠 Habilidades Técnicas & 📊 Nivel de Conocimientos  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Lenguajes de Programación  
 🔹 **Python**  
@@ -30,8 +36,8 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 - **Linux**  
 - **Metasploit**  
 - **Ingeniería social**  
-- **VirtualBox**
-- **Zphisher**
+- **VirtualBox**  
+- **Zphisher**  
 
 ### 🌐 Desarrollo Web  
 🎨 **Tecnologías utilizadas:**  
@@ -40,25 +46,33 @@ Me dedico a crear contenido educativo sobre seguridad informática y hacking en 
 - **Bootstrap**  
 - **HTML**  
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 Nivel de Conocimientos  
+### 📊 Nivel de Conocimientos  
 
-### 💻 Lenguajes de Programación  
-Python ▓▓▓▓▓▓▓▓▓▓░ 90%  
-Java ▓▓▓▓▓▓▓░░░░░ 60%  
-Bash ▓▓▓▓▓▓▓▓▓░░░ 75%  
+**Lenguajes de Programación**  
+Python ▓▓▓▓▓▓▓▓▓░ 90%  
+Java ▓▓▓▓▓▓░░░░░ 60%  
+Bash ▓▓▓▓▓▓▓▓▓░░ 75%  
 
-### ⚡ Herramientas  
+**Herramientas**  
 Linux Consola ▓▓▓▓▓▓▓▓░░ 85%  
 Metasploit ▓▓▓▓▓░░░░░ 50%  
 Ingeniería Social ▓▓▓▓▓▓▓▓░░ 80%  
+Zphisher ▓▓▓▓▓▓░░░░ 60%  
 
-### 🌐 Desarrollo Web  
+**Desarrollo Web**  
 CSS ▓▓▓▓▓▓▓░░░ 70%  
 JavaScript ▓▓▓▓▓░░░░░ 50%  
 Bootstrap ▓▓▓▓░░░░░░ 45%  
 HTML ▓▓▓▓▓▓▓░░░ 75%  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -84,8 +98,8 @@ HTML ▓▓▓▓▓▓▓░░░ 75%
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=TU_VIDEO_1" target="_blank">
-    <img src="https://img.youtube.com/vi/TU_VIDEO_1/0.jpg" alt="Miniatura Video 1" width="350"/>
+<a href="https://www.youtube.com/watch?v=2Jxq2rm2h1o" target="_blank">
+    <img src="https://www.youtube.com/watch?v=2Jxq2rm2h1o" alt="Miniatura Video 1" width="350"/>
 </a>  
 
 <a href="https://www.youtube.com/watch?v=TU_VIDEO_2" target="_blank">
