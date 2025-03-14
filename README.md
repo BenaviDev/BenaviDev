@@ -20,7 +20,7 @@
 ---
 
 ## 📂 Repositorios  
-🔗 [Mi pagina principal](https://github.com/BenaviDev)
+🔗 [Bash-Scripting](https://github.com/BenaviDev/Repositorios_Bash)
 🔗 [Ejercicios faciles con python](https://github.com/BenaviDev/Ejercicios-Practicos-PYTHON)
 🔗 [Scripts Utiles con python](https://github.com/BenaviDev/ScriptsPython)
 🔗 [Proyectos independientes](https://github.com/BenaviDev/Proyectos-Independientes)
