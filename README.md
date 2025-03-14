@@ -70,6 +70,10 @@ Conocimientos en **Salesforce y GLPI**. Destacado por su **orientación al detal
 
 ---
 
+<table align="center"> <tr> <th>🔍 Proyecto</th> <th>📌 Descripción</th> <th>🔗 Repositorio</th> </tr> <tr> <td><b>OSINTHunter</b></td> <td>Herramienta avanzada en Bash para la extracción de información OSINT desde una URL o dominio.</td> <td><a href="TU_ENLACE_A_GITHUB">Ver en GitHub</a></td> </tr> <tr> <td><b>AutoRecon</b></td> <td>Script automatizado para reconocimiento en pentesting, combinando herramientas como Nmap, WhatWeb y más.</td> <td><a href="TU_ENLACE_A_GITHUB">Ver en GitHub</a></td> </tr> </table>
+
+---
+
 ## 📹 Videos Destacados  
 
 <table>
