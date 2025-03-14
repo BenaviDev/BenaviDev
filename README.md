@@ -70,7 +70,9 @@ Conocimientos en **Salesforce y GLPI**. Destacado por su **orientación al detal
 
 ---
 
-<table align="center"> <tr> <th>🔍 Proyecto</th> <th>📌 Descripción</th> <th>🔗 Repositorio</th> </tr> <tr> <td><b>OSINTHunter</b></td> <td>Herramienta avanzada en Bash para la extracción de información OSINT desde una URL o dominio.</td> <td><a href="TU_ENLACE_A_GITHUB">Ver en GitHub</a></td> </tr> <tr> <td><b>AutoRecon</b></td> <td>Script automatizado para reconocimiento en pentesting, combinando herramientas como Nmap, WhatWeb y más.</td> <td><a href="TU_ENLACE_A_GITHUB">Ver en GitHub</a></td> </tr> </table>
+<table align="center"> <tr> <th>🔍 Proyectos Recientes</th> <th>📌 Descripción</th> <th>🔗 Repositorio</th> </tr> <tr> <td><b>OSINTHunter</b></td> <td>Herramienta avanzada en Bash para la extracción de información OSINT desde una URL o dominio.</td> <td><a href="https://github.com/BenaviDev/Repositorios_Bash/blob/main/osintV2.0.sh">Ver en GitHub</a></td> </tr> <tr> <td><b>AliasX</b></td> <td>En muchas auditorías de seguridad y ejercicios de ingeniería social, la creación de identidades falsas es clave para recopilar información sin levantar sospechas. Ya sea para interactuar con ciertos perfiles o probar la seguridad de sistemas, contar con herramientas que generen datos realistas puede marcar la diferencia. 
+  <br>
+💀 Presentamos nuestro Generador de Identidades en Bash 💀</td> <td><a href="https://github.com/BenaviDev/Repositorios_Bash/blob/main/credenciales.sh">Ver en GitHub</a></td> </tr> </table>
 
 ---
 
